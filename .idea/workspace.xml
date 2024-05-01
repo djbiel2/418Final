@@ -1,0 +1,315 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="870e5325-6b9f-4b60-9a34-3d99973593ed" name="Changes" comment="Files were reorganized, and Final notebook added">
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1AllEmployeesUtilitiesVertical.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2018to2022Unemploymentdata.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2018to2022UnemploymentdataML.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2021_States_Unemployment_Change.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2023_States_Unemployment_Change.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AllEmployeesUtilities.xlsx - BLS Data Series.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CS 418 Group 8 Final Report.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chicago_City_Employment_Data_20240223.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Employee_Overtime_and_Supplemental_Earnings_2020_20240223.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Employee_Overtime_and_Supplemental_Earnings_2022_20240223.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Final Files/AllEmployeesHealthcare&amp;SocialAssistance.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Final Files/AllEmployeesHealthcare&amp;SocialAssistance.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Final Files/Healthcare_Subsectors/AllEmployeesHealthcare&amp;SocialAssistance.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Final Files/Healthcare_Subsectors/AllEmployeesHealthcare&amp;SocialAssistance.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Final Files/Healthcare_Subsectors/AmbulatoryHealthCareServices.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Final Files/Healthcare_Subsectors/AmbulatoryHealthCareServices.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Final Files/Healthcare_Subsectors/Healthcare.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Final Files/Healthcare_Subsectors/Healthcare.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Final Files/Healthcare_Subsectors/Hospitals.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Final Files/Healthcare_Subsectors/Hospitals.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Final Files/Healthcare_Subsectors/Nursing&amp;ResidentialCare.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Final Files/Healthcare_Subsectors/Nursing&amp;ResidentialCare.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Final Files/Healthcare_Subsectors/SocialAssistance.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Final Files/Healthcare_Subsectors/SocialAssistance.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Final Files/Information_Subsectors/Broadcasting&amp;ContentProviders.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Final Files/Information_Subsectors/Broadcasting&amp;ContentProviders.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Final Files/Information_Subsectors/ComputingInfrastructure,DataProcessing,WebHosting,related.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Final Files/Information_Subsectors/ComputingInfrastructure,DataProcessing,WebHosting,related.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Final Files/Information_Subsectors/MotionPicture&amp;SoundRecording.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Final Files/Information_Subsectors/MotionPicture&amp;SoundRecording.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Final Files/Information_Subsectors/Publishing.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Final Files/Information_Subsectors/Publishing.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Final Files/Information_Subsectors/Telecommunications.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Final Files/Information_Subsectors/Telecommunications.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Final Files/Information_Subsectors/WebSearch,Libraries,Archives,related.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Final Files/Information_Subsectors/WebSearch,Libraries,Archives,related.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Final Files/Leisure_Hospitality_Subsectors/Accomodation.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Final Files/Leisure_Hospitality_Subsectors/Accomodation.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Final Files/Leisure_Hospitality_Subsectors/Amusement&amp;Gambling&amp;Recreation.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Final Files/Leisure_Hospitality_Subsectors/Amusement&amp;Gambling&amp;Recreation.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Final Files/Leisure_Hospitality_Subsectors/FoodServices&amp;DrinkingPlaces.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Final Files/Leisure_Hospitality_Subsectors/FoodServices&amp;DrinkingPlaces.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Final Files/Leisure_Hospitality_Subsectors/Museums&amp;HistoricalSites.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Final Files/Leisure_Hospitality_Subsectors/Museums&amp;HistoricalSites.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Final Files/Leisure_Hospitality_Subsectors/PerformingArts&amp;Sports&amp;Related.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Final Files/Leisure_Hospitality_Subsectors/PerformingArts&amp;Sports&amp;Related.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Final Files/ProfessionalBusinessServices_Subsectors/Administrative,Support,Waste,Remediation.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Final Files/ProfessionalBusinessServices_Subsectors/Administrative,Support,Waste,Remediation.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Final Files/ProfessionalBusinessServices_Subsectors/CompanyOrEnterpriseManagement.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Final Files/ProfessionalBusinessServices_Subsectors/CompanyOrEnterpriseManagement.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Final Files/ProfessionalBusinessServices_Subsectors/Professional,Scientific,Technical.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Final Files/ProfessionalBusinessServices_Subsectors/Professional,Scientific,Technical.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Final Files/Retail_Trade_Subsectors/BldgMaterials&amp;GardenEqpt&amp;Supplies.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Final Files/Retail_Trade_Subsectors/BldgMaterials&amp;GardenEqpt&amp;Supplies.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Final Files/Retail_Trade_Subsectors/Books&amp;News.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Final Files/Retail_Trade_Subsectors/Books&amp;News.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Final Files/Retail_Trade_Subsectors/ClothingFashion.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Final Files/Retail_Trade_Subsectors/ClothingFashion.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Final Files/Retail_Trade_Subsectors/Food&amp;Bev.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Final Files/Retail_Trade_Subsectors/Food&amp;Bev.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Final Files/Retail_Trade_Subsectors/Furniture&amp;Electronics&amp;Appliances.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Final Files/Retail_Trade_Subsectors/Furniture&amp;Electronics&amp;Appliances.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Final Files/Retail_Trade_Subsectors/GasStation&amp;Fuel.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Final Files/Retail_Trade_Subsectors/GasStation&amp;Fuel.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Final Files/Retail_Trade_Subsectors/GeneralMerchandise.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Final Files/Retail_Trade_Subsectors/GeneralMerchandise.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Final Files/Retail_Trade_Subsectors/Health&amp;PersonalCare.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Final Files/Retail_Trade_Subsectors/Health&amp;PersonalCare.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Final Files/Retail_Trade_Subsectors/MotorVehicle&amp;Parts.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Final Files/Retail_Trade_Subsectors/MotorVehicle&amp;Parts.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Final Files/Retail_Trade_Subsectors/Sports&amp;Hobby&amp;MusicInstrument.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Final Files/Retail_Trade_Subsectors/Sports&amp;Hobby&amp;MusicInstrument.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Final Files/Saahi-Data-Files/2012ChicagoBudget.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Final Files/Saahi-Data-Files/2013ChicagoBudget.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Final Files/Saahi-Data-Files/2014ChicagoBudget.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Final Files/Saahi-Data-Files/2015ChicagoBudget.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Final Files/Saahi-Data-Files/2016ChicagoBudget.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Final Files/Saahi-Data-Files/2017ChicagoBudget.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Final Files/Saahi-Data-Files/2018ChicagoBudget.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Final Files/Saahi-Data-Files/2019ChicagoBudget.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Final Files/Saahi-Data-Files/2020ChicagoBudget.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Final Files/Saahi-Data-Files/2021ChicagoBudget.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Final Files/Saahi-Data-Files/2022ChicagoBudget.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Final Files/Saahi-Data-Files/2023ChicagoBudget.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Final Files/Saahi-Data-Files/2024ChicagoBudget.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Final Files/Saahi-Data-Files/AllCaliforniaAdminAndSupportServices.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Final Files/Saahi-Data-Files/AllCaliforniaAmbulatoryHealthCareServices.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Final Files/Saahi-Data-Files/AllCaliforniaHealthCareSocialAssistance.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Final Files/Saahi-Data-Files/AllCaliforniaHealthPersonalCareRetailers.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Final Files/Saahi-Data-Files/AllCaliforniaHospitals.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Final Files/Saahi-Data-Files/AllCaliforniaInvestigationSecurityServices.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Final Files/Saahi-Data-Files/AllCaliforniaNursingAndResidentialCareFacilities.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Final Files/Saahi-Data-Files/AllCaliforniaPrivateEducationAndHealthServices.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Final Files/Saahi-Data-Files/AllCaliforniaSocialAssistance.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Final Files/Saahi-Data-Files/AllEmployeesConstructionTotal.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Final Files/Saahi-Data-Files/AllEmployeesConstructionTotal.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Final Files/Saahi-Data-Files/AllEmployeesDurableGoodsTotal.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Final Files/Saahi-Data-Files/AllEmployeesDurableGoodsTotal.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Final Files/Saahi-Data-Files/AllEmployeesFinancialActivitiesTotal.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Final Files/Saahi-Data-Files/AllEmployeesFinancialActivitiesTotal.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Final Files/Saahi-Data-Files/AllEmployeesGoodsProducingTotal.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Final Files/Saahi-Data-Files/AllEmployeesGoodsProducingTotal.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Final Files/Saahi-Data-Files/AllEmployeesGovernmentTotal.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Final Files/Saahi-Data-Files/AllEmployeesGovernmentTotal.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Final Files/Saahi-Data-Files/AllEmployeesInformationTotal.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Final Files/Saahi-Data-Files/AllEmployeesInformationTotal.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Final Files/Saahi-Data-Files/AllEmployeesLeisure&amp;HospitalityTotal.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Final Files/Saahi-Data-Files/AllEmployeesLeisure&amp;HospitalityTotal.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Final Files/Saahi-Data-Files/AllEmployeesManufacturingTotal.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Final Files/Saahi-Data-Files/AllEmployeesManufacturingTotal.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Final Files/Saahi-Data-Files/AllEmployeesMining&amp;LoggingTotal.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Final Files/Saahi-Data-Files/AllEmployeesMining&amp;LoggingTotal.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Final Files/Saahi-Data-Files/AllEmployeesNonDurableGoodsTotal.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Final Files/Saahi-Data-Files/AllEmployeesNonDurableGoodsTotal.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Final Files/Saahi-Data-Files/AllEmployeesOtherServicesTotal.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Final Files/Saahi-Data-Files/AllEmployeesOtherServicesTotal.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Final Files/Saahi-Data-Files/AllEmployeesPrivateServiceProvidingTotal.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Final Files/Saahi-Data-Files/AllEmployeesPrivateServiceProvidingTotal.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Final Files/Saahi-Data-Files/AllEmployeesProfessional&amp;BusinessServicesTotal.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Final Files/Saahi-Data-Files/AllEmployeesProfessional&amp;BusinessServicesTotal.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Final Files/Saahi-Data-Files/AllEmployeesRetailTradeTotal.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Final Files/Saahi-Data-Files/AllEmployeesRetailTradeTotal.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Final Files/Saahi-Data-Files/AllEmployeesServiceProvidingTotal.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Final Files/Saahi-Data-Files/AllEmployeesServiceProvidingTotal.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Final Files/Saahi-Data-Files/AllEmployeesTotalNonFarmTotal.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Final Files/Saahi-Data-Files/AllEmployeesTotalNonFarmTotal.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Final Files/Saahi-Data-Files/AllEmployeesTotalPrivateTotal.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Final Files/Saahi-Data-Files/AllEmployeesTotalPrivateTotal.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Final Files/Saahi-Data-Files/AllEmployeesTradeTransportation&amp;UtilitiesTotal.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Final Files/Saahi-Data-Files/AllEmployeesTradeTransportation&amp;UtilitiesTotal.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Final Files/Saahi-Data-Files/AllEmployeesTransportation&amp;WarehousingTotal.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Final Files/Saahi-Data-Files/AllEmployeesTransportation&amp;WarehousingTotal.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Final Files/Saahi-Data-Files/AllEmployeesUtilitiesTotal.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Final Files/Saahi-Data-Files/AllEmployeesUtilitiesTotal.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Final Files/Saahi-Data-Files/AllEmployeesWholesaleTrade.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Final Files/Saahi-Data-Files/AllEmployeesWholesaleTradeTotal.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Final Files/Saahi-Data-Files/Graphs for each super sector.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Final Files/Saahi-Data-Files/StateCaliforniaEmp.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Final Files/Saahi-Data-Files/StateFloridaEmp.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Final Files/Saahi-Data-Files/StateGeorgiaEmp.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Final Files/Saahi-Data-Files/StateIllinoisEmp.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Final Files/Saahi-Data-Files/StateMichiganEmp.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Final Files/Saahi-Data-Files/StateNewYorkEmp.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Final Files/Saahi-Data-Files/StateNorthCaroEmp.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Final Files/Saahi-Data-Files/StateOhioEmp.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Final Files/Saahi-Data-Files/StatePennEmp.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Final Files/Saahi-Data-Files/StateTexasEmp.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Final Files/Transportation_Warehousing_Subsectors/AirTransport.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Final Files/Transportation_Warehousing_Subsectors/AirTransport.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Final Files/Transportation_Warehousing_Subsectors/Couriers&amp;Messengers.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Final Files/Transportation_Warehousing_Subsectors/Couriers&amp;Messengers.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Final Files/Transportation_Warehousing_Subsectors/PipelineTransport.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Final Files/Transportation_Warehousing_Subsectors/PipelineTransport.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Final Files/Transportation_Warehousing_Subsectors/RailTransport.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Final Files/Transportation_Warehousing_Subsectors/RailTransport.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Final Files/Transportation_Warehousing_Subsectors/Scenic&amp;SightseeingTransport.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Final Files/Transportation_Warehousing_Subsectors/Scenic&amp;SightseeingTransport.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Final Files/Transportation_Warehousing_Subsectors/SupportActivitiesForTransport.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Final Files/Transportation_Warehousing_Subsectors/SupportActivitiesForTransport.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Final Files/Transportation_Warehousing_Subsectors/Transit&amp;GroundPassengerTransport.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Final Files/Transportation_Warehousing_Subsectors/Transit&amp;GroundPassengerTransport.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Final Files/Transportation_Warehousing_Subsectors/TruckTransport.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Final Files/Transportation_Warehousing_Subsectors/TruckTransport.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Final Files/Transportation_Warehousing_Subsectors/Warehousing&amp;Storage.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Final Files/Transportation_Warehousing_Subsectors/Warehousing&amp;Storage.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Final Files/Transportation_Warehousing_Subsectors/WaterTransport.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Final Files/Transportation_Warehousing_Subsectors/WaterTransport.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Final Files/national_M2019_dl.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Final Files/national_M2020_dl.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Final Files/national_M2021_dl.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Final Files/national_M2022_dl.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Group8_Final_Code.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OES_Report.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Old CSV/AllEmployeesConstruction.xlsx - BLS Data Series.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Old CSV/AllEmployeesDurableGoods.xlsx - BLS Data Series.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Old CSV/AllEmployeesFinancialActivities.xlsx - BLS Data Series.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Old CSV/AllEmployeesGoodsProducing.xlsx - BLS Data Series.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Old CSV/AllEmployeesGovernment.xlsx - BLS Data Series.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Old CSV/AllEmployeesInformation.xlsx - BLS Data Series.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Old CSV/AllEmployeesLeisure&amp;Hospitality.xlsx - BLS Data Series.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Old CSV/AllEmployeesManufacturing.xlsx - BLS Data Series.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Old CSV/AllEmployeesMining&amp;Logging.xlsx - BLS Data Series.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Old CSV/AllEmployeesNonDurableGoods.xlsx - BLS Data Series.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Old CSV/AllEmployeesOtherServices.xlsx - BLS Data Series.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Old CSV/AllEmployeesPrivateServiceProviding.xlsx - BLS Data Series.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Old CSV/AllEmployeesProfessional&amp;BusinessServices.xlsx - BLS Data Series.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Old CSV/AllEmployeesRetailTrade.xlsx - BLS Data Series.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Old CSV/AllEmployeesServiceProviding.xlsx - BLS Data Series.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Old CSV/AllEmployeesTotalNonFarm.xlsx - BLS Data Series.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Old CSV/AllEmployeesTotalPrivate.xlsx - BLS Data Series.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Old CSV/AllEmployeesTradeTransportation&amp;Utilities.xlsx - BLS Data Series.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Old CSV/AllEmployeesTransportation&amp;Warehousing.xlsx - BLS Data Series.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Old CSV/AllEmployeesUtilities.xlsx - BLS Data Series.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Old CSV/AllEmployeesWholesaleTrade.xlsx - BLS Data Series.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Saahi_sProjectDataExploration.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xlsxFiles/AllCaliforniaAdminAndSupportServices.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xlsxFiles/AllCaliforniaAmbulatoryHealthCareServices.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xlsxFiles/AllCaliforniaHealthCareSocialAssistance.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xlsxFiles/AllCaliforniaHealthPersonalCareRetailers.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xlsxFiles/AllCaliforniaHospitals.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xlsxFiles/AllCaliforniaInvesttigationSecurityServices.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xlsxFiles/AllCaliforniaNursingAndResidentialCareFacilities.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xlsxFiles/AllCaliforniaPrivateEducationAndHealthServices.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xlsxFiles/AllCaliforniaSocialAssistance.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xlsxFiles/AllEmployeesConstruction.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xlsxFiles/AllEmployeesDurableGoods.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xlsxFiles/AllEmployeesFinancialActivities.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xlsxFiles/AllEmployeesGoodsProducing.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xlsxFiles/AllEmployeesGovernment.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xlsxFiles/AllEmployeesInformation.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xlsxFiles/AllEmployeesLeisure&amp;Hospitality.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xlsxFiles/AllEmployeesManufacturing.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xlsxFiles/AllEmployeesMining&amp;Logging.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xlsxFiles/AllEmployeesNonDurableGoods.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xlsxFiles/AllEmployeesOtherServices.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xlsxFiles/AllEmployeesPrivateServiceProviding.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xlsxFiles/AllEmployeesProfessional&amp;BusinessServices.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xlsxFiles/AllEmployeesRetailTrade.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xlsxFiles/AllEmployeesServiceProviding.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xlsxFiles/AllEmployeesTotalNonFarm.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xlsxFiles/AllEmployeesTotalPrivate.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xlsxFiles/AllEmployeesTradeTransportation&amp;Utilities.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xlsxFiles/AllEmployeesTransportation&amp;Warehousing.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xlsxFiles/AllEmployeesUtilities.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xlsxFiles/AllEmployeesWholesaleTrade.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xlsxFiles/PrivateServiceProvidersSeasonallyAdjusted.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xlsxFiles/SeriesReport-20240331175902_f604a8.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xlsxFiles/StateCaliforniaEmp.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xlsxFiles/StateFloridaEmp.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xlsxFiles/StateGeorgiaEmp.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xlsxFiles/StateIllinoisEmp.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xlsxFiles/StateMichiganEmp.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xlsxFiles/StateNewYorkEmp.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xlsxFiles/StateNorthCaroEmp.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xlsxFiles/StateOhioEmp.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xlsxFiles/StatePennEmp.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xlsxFiles/StateTexasEmp.xlsx" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2eiLb5toDAY8crywGG2UJYGrKCl" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "D:/My Code/School/CS 418/Project"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="870e5325-6b9f-4b60-9a34-3d99973593ed" name="Changes" comment="" />
+      <created>1712382519314</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1712382519314</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Importing files from google drive.">
+      <option name="closed" value="true" />
+      <created>1712382755091</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1712382755091</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Removed old files">
+      <option name="closed" value="true" />
+      <created>1714540630793</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1714540630793</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Importing files from google drive." />
+    <MESSAGE value="Removed old files" />
+    <MESSAGE value="Files were reorganized, and Final notebook added" />
+    <option name="LAST_COMMIT_MESSAGE" value="Files were reorganized, and Final notebook added" />
+  </component>
+</project>
